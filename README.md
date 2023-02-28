@@ -5,8 +5,8 @@ Repósitorio onde irei guardas as anotações dos meus estudos e seus exercicios
 </p>
 
 <p align="center">
-  <a href="##-Conteúdo do Livro">Conteúdo do Livro</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="##-Exercícios">Exercícios desenvolvidos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#conteúdo-do-livro">Conteúdo do Livro</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#exercícios">Exercícios desenvolvidos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
