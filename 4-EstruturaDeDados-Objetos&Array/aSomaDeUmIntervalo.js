@@ -5,10 +5,12 @@ function range(start, end, increment = 1) {
       lista.push(run);
     }
   } else {
-    if (start > end) {
+    if (start > end && increment < 0) {
       for (let run = start; run >= end; run += increment) {
         lista.push(run);
       }
+    } else{
+        return 'Invalid arguments!'
     }
   }
   return lista;
@@ -25,3 +27,5 @@ function sum(array) {
 console.log(range(1, 10));
 console.log(range(5, 2, -1));
 console.log(sum(range(1, 10)))
+
+console.log(range(5, 2, 1))
