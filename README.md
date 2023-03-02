@@ -5,8 +5,8 @@ Repósitorio onde irei guardas as anotações dos meus estudos e seus exercicios
 </p>
 
 <p align="center">
-  <a href="##-Conteúdo do Livro">Conteúdo do Livro</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="##-Exercícios">Exercícios desenvolvidos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#conteúdo-do-livro">Conteúdo do Livro</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#exercícios">Exercícios desenvolvidos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -25,15 +25,15 @@ Repósitorio onde irei guardas as anotações dos meus estudos e seus exercicios
 <br>
 
 <p align="center">
-<a href="https://github.com/SweydManaf/enloquete-javascript"><img alt="enloquete-javascript" src="https://github.com/SweydManaf/enloquete-javascript/blob/main/imagens/eloq-js.png" width="30%"></a>
+<a href="https://github.com/SweydManaf/enloquete-javascript"><img alt="enloquete-javascript" src="https://github.com/SweydManaf/enloquete-javascript/blob/main/imagens/eloq-js.png" width="50%"></a>
 </p>
 
 ## Conteúdo do Livro
 
 0. Introdução ✔️
-1. Valores, Tipos e Operadores - (Parte 1: Linguagem) ✔️
-2. Estrutura do Programa ✔️
-3. Funções ❌
+1. [Valores, Tipos e Operadores](https://github.com/SweydManaf/minhas-anotacoes/tree/main/Programa%C3%A7%C3%A3o%20%F0%9F%92%BB/Frontend/Enloquete%20JavaScript/1.%20Valores%2C%20Tipos%20e%20Operadores) - (Parte 1: Linguagem) ✔️
+2. [Estrutura do Programa](https://github.com/SweydManaf/minhas-anotacoes/tree/main/Programa%C3%A7%C3%A3o%20%F0%9F%92%BB/Frontend/Enloquete%20JavaScript/2.%20Estrutura%20do%20programa) ✔️
+3. [Funções](https://github.com/SweydManaf/minhas-anotacoes/tree/main/Programa%C3%A7%C3%A3o%20%F0%9F%92%BB/Frontend/Enloquete%20JavaScript/3.%20Fun%C3%A7%C3%B5es) ✔️
 4. Estrutura de Dados: Objeto e Array ❌
 5. Funções de Ordem Superior ❌
 6. A Vida Secreta dos Objetos ❌
@@ -54,7 +54,15 @@ Repósitorio onde irei guardas as anotações dos meus estudos e seus exercicios
 21. Projeto: Website de Compartilhamento de Habilidades ❌
 
 ## Exercícios
-
+2. Estrutura do Programa <br>
+   - [Triângulo com Loop](https://github.com/SweydManaf/enloquete-javascript/blob/main/2-EstruturaDoPrograma/trianguloComLoop.js) ✔️ <br>
+   - [FizzBuzz](https://github.com/SweydManaf/enloquete-javascript/blob/main/2-EstruturaDoPrograma/fizzBuzz.js) ✔️ <br>
+   - [Tabuleiro de Xadrez](https://github.com/SweydManaf/enloquete-javascript/blob/main/2-EstruturaDoPrograma/tabuleiroDeXadrez.js) ✔️ <br>
+3. Funções <br>
+   - [Mínimo](https://github.com/SweydManaf/enloquete-javascript/blob/main/3-fun%C3%A7%C3%B5es/m%C3%ADnimo.js) ✔️ <br>
+   - [Recursão](https://github.com/SweydManaf/enloquete-javascript/blob/main/3-fun%C3%A7%C3%B5es/recurs%C3%A3o.js) ✔️ <br>
+   - [Contando feijões](https://github.com/SweydManaf/enloquete-javascript/blob/main/3-fun%C3%A7%C3%B5es/contandoFeij%C3%B5es.js) ✔️ <br>
+  
 ## :memo: Licença
 Esse projeto está sob a licença MIT.
 
